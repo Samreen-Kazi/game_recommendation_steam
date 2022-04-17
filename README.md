@@ -1,6 +1,6 @@
 # game_recommendation_steam
 
-All gaming enthusiast would know how difficult it is to find a game that suits your pallete and yet does not feel repetative and boring.
+All gaming enthusiast would know how difficult it is to find a game that suits your pallete and yet does not feel repetitive and boring.
 
 Thus, this game recomendation system allows you to find games that you like and are missing out on by just simply asking you a few things.
 
